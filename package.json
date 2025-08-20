@@ -1,8 +1,26 @@
 {
   "dependencies": {
+    "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "mongoose": "^8.17.1",
     "nodemon": "^3.1.10",
     "parseint": "^2.0.1"
-  }
+  },
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "descripcion",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JEKIsAI/RestAPI.git"
+  },
+  "author": "jimmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JEKIsAI/RestAPI/issues"
+  },
+  "homepage": "https://github.com/JEKIsAI/RestAPI#readme"
 }
